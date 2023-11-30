@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "99FE0D07-C7AE-4C75-BC11-392CB1248D66"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F982E5EC-76F6-4F2F-90F5-E74D0AA16AE7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sampleCRUD/Scene/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "fourthSection()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F982E5EC-76F6-4F2F-90F5-E74D0AA16AE7 - a7acbf5eb0a8b959"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sampleCRUD.HomeViewController.fourthSection() -&gt; __C.NSCollectionLayoutSection"
+                  moduleName = "sampleCRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apcmbp23/Documents/syndromme-rx-crud-726f915bf236/sampleCRUD/Scene/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "1480">
+               </Location>
+               <Location
+                  uuid = "F982E5EC-76F6-4F2F-90F5-E74D0AA16AE7 - a7acbf5eb0a8b959"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sampleCRUD.HomeViewController.fourthSection() -&gt; __C.NSCollectionLayoutSection"
+                  moduleName = "sampleCRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apcmbp23/Documents/syndromme-rx-crud-726f915bf236/sampleCRUD/Scene/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "1476">
+               </Location>
+               <Location
+                  uuid = "F982E5EC-76F6-4F2F-90F5-E74D0AA16AE7 - a7acbf5eb0a8b917"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sampleCRUD.HomeViewController.fourthSection() -&gt; __C.NSCollectionLayoutSection"
+                  moduleName = "sampleCRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apcmbp23/Documents/syndromme-rx-crud-726f915bf236/sampleCRUD/Scene/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "1480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A92D8E2D-A9AA-4356-877A-93CFB68A8CA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sampleCRUD/Scene/Home/view/ChipHeaderViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2EFAE61-D766-4073-9A67-AAD121BD5DCF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sampleCRUD/Scene/Home/view/ChipHeaderViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E67F3C33-B52A-4B99-9F8A-9FA2DF635358"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sampleCRUD/Scene/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7064F4A2-5912-49B7-8107-B0ED55C85BE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sampleCRUD/Scene/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8B1AA1A-B1E3-4265-888E-06205731D22A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sampleCRUD/Service/NetworkTask.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "createParams(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A8CE1A4-94DC-48E2-B915-01C349143513"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sampleCRUD/Scene/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "getApi()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7A8CE1A4-94DC-48E2-B915-01C349143513 - 68a7c41352ca45f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sampleCRUD.HomeViewController.getApi() -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, Swift.String&gt;"
+                  moduleName = "sampleCRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apcmbp23/Documents/syndromme-rx-crud-726f915bf236/sampleCRUD/Scene/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "7A8CE1A4-94DC-48E2-B915-01C349143513 - 57e7b5e3b05c39a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Moya.Response) -&gt; Swift.String in sampleCRUD.HomeViewController.getApi() -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, Swift.String&gt;"
+                  moduleName = "sampleCRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apcmbp23/Documents/syndromme-rx-crud-726f915bf236/sampleCRUD/Scene/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "7A8CE1A4-94DC-48E2-B915-01C349143513 - 57e7b5e3b05c39a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Moya.Response) -&gt; Swift.String in sampleCRUD.HomeViewController.getApi() -&gt; RxSwift.PrimitiveSequence&lt;RxSwift.SingleTrait, Swift.String&gt;"
+                  moduleName = "sampleCRUD"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apcmbp23/Documents/syndromme-rx-crud-726f915bf236/sampleCRUD/Scene/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68A9BFDF-FEBC-4F0F-B3A8-EE3E9E5E0C2D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sampleCRUD/Scene/Home Ahaa/HomeTabController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "setNavigationBar()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72C975DC-73A6-419E-BF8D-CEB98F00BFF4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sampleCRUD/Scene/Home Ahaa/HomeTabController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "setNavigationBar()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

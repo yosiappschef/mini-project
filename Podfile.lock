@@ -1,0 +1,74 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.7.1)
+  - Alamofire (5.8.1)
+  - IQKeyboardManagerSwift (6.5.16)
+  - KeychainAccess (4.2.2)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (15.0.0):
+    - Moya/Core
+    - RxSwift (~> 6.0)
+  - Realm (10.43.1):
+    - Realm/Headers (= 10.43.1)
+  - Realm/Headers (10.43.1)
+  - RealmSwift (10.43.1):
+    - Realm (= 10.43.1)
+  - RxCocoa (6.6.0):
+    - RxRelay (= 6.6.0)
+    - RxSwift (= 6.6.0)
+  - RxRealm (5.0.4):
+    - Realm (~> 10.21)
+    - RealmSwift (~> 10.21)
+    - RxCocoa (~> 6.1)
+    - RxSwift (~> 6.1)
+  - RxRelay (6.6.0):
+    - RxSwift (= 6.6.0)
+  - RxSwift (6.6.0)
+  - SVProgressHUD (2.2.5)
+  - Wormholy (1.7.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - IQKeyboardManagerSwift
+  - KeychainAccess
+  - Moya/RxSwift
+  - RxCocoa
+  - RxRealm
+  - RxSwift
+  - SVProgressHUD
+  - Wormholy
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - KeychainAccess
+    - Moya
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxRealm
+    - RxRelay
+    - RxSwift
+    - SVProgressHUD
+    - Wormholy
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: 36da254b97a09ff89679ecb8b8510bd3e5bdc773
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  Realm: d97b438de77459e443bd2c8ad5ca0f95107aee4b
+  RealmSwift: 6be3f27a7fd3f5cc8f99f4b187cc4e7150299e32
+  RxCocoa: 44a80de90e25b739b5aeaae3c8c371a32e3343cc
+  RxRealm: 666c8785327fe2fff972a3093b35dc7055c1ca38
+  RxRelay: 45eaa5db8ee4fb50e5ebd57deec0159e97fa51e6
+  RxSwift: a4b44f7d24599f674deebd1818eab82e58410632
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Wormholy: ab1c8c2f02f58587a0941deb0088555ffbf039a1
+
+PODFILE CHECKSUM: 64ddfa9e4c38941f67d35cde433a65dfa17db80c
+
+COCOAPODS: 1.14.2
